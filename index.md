@@ -34,7 +34,7 @@ My research interests focus on: Natural language processing, Deep learning, Chat
    
     The video of this demo can be found here: [The video for the demo](https://drive.google.com/file/d/19BPzHcRFPfZ3jOThq7UvGjTOkYL774g8/view)  
    
-* **References**
+* **Papers**
 
     Categories of recently read papers：[References](https://github.com/ruibin-wang/github_references)
 
