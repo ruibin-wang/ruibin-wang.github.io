@@ -1,4 +1,4 @@
-## Welcome to Ruibin Wang's homepage
+# Welcome to Ruibin Wang's homepage
 
 ## Introduction
 
@@ -14,6 +14,23 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 2019.10-       PhD, Natural Language Processing, Bournemouth University
 
 
+## Projects
+* **Intel-PA**
+
+    [Intel-PA](https://github.com/Intel-PA/IntelPA)
+
+
+* **A demo of the automatic headache diagnose**
+
+    We have designed a simple interactive diagnostic system to determine whether the user has a primary headache. This system simulates the user's real consultation process, and the diagnosis of primary headache can be completed through the audio conversation between the user and the system.
+
+    The code of this project can be found here: [A demo of the Automatic headache diagnose](https://github.com/Intel-PA/diagnose_demo)
+   
+    The video of this demo can be found here: [The video for the demo](https://drive.google.com/file/d/19BPzHcRFPfZ3jOThq7UvGjTOkYL774g8/view)  
+   
+* **References**
+
+    Categories of recently read papers：[References](https://github.com/ruibin-wang/github_references)
 
 
 ## Publications
