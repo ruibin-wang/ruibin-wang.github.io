@@ -1,5 +1,11 @@
 # Welcome to Ruibin Wang's homepage
 
+## Contact
+
+Linkedin: https://www.linkedin.com/in/ruibin-wang-b95569198/
+
+Email: rwang1@bournemouth.ac.uk
+
 ## Introduction
 
 Researcher, PhD Student at National Centre for Computer Animation (NCCA), Bournemouth University.
@@ -31,6 +37,7 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 * **References**
 
     Categories of recently read papers：[References](https://github.com/ruibin-wang/github_references)
+
 
 
 ## Publications
