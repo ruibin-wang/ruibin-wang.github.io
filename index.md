@@ -8,7 +8,9 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 
 ## Education
 2012.9-2016.6  Bachelor's degree,  Applied Mathematics,  Southwest Jiaotong University
+
 2016.9-2019.6  Master's degree,  Vehicle Operation Engineering,  Southwest Jiaotong University
+
 2019.10-       PhD, Natural Language Processing, Bournemouth University
 
 
