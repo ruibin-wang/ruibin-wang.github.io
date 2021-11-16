@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Ruibin Wang's homepage
 
-You can use the [editor on GitHub](https://github.com/ruibin-wang/ruibin-wang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+## Publications
+
+1. A Survey of Parametric Modelling Methods for Designing the Head of a High-Speed Train, Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit 232.7 (2018): 1965-1983. [paper](https://journals.sagepub.com/doi/abs/10.1177/0954409718756558) 
+
+2. Multi-objective aerodynamic optimization of high-speed train heads based on the PDE parametric modeling, Structural and Multidisciplinary Optimization (2021): 1-20. [paper](https://link.springer.com/article/10.1007/s00158-021-02916-0)
+
+
 
 ### Markdown
 
