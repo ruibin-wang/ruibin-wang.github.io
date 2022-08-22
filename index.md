@@ -46,5 +46,9 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 
 * Multi-objective aerodynamic optimization of high-speed train heads based on the PDE parametric modeling, *Structural and Multidisciplinary Optimization* (2021): 1-20. [paper](https://link.springer.com/article/10.1007/s00158-021-02916-0)
 
+* Sketch‐based modeling with a differentiable renderer, *Computer Animation and Virtual Worlds*, 31.4-5 (2020): e1939. [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cav.1939) 
+
+
+* Hybrid Architecture Based Intelligent Diagnosis Assistant for GP (CASA2022 workshop)
 
 
