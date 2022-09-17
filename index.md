@@ -84,13 +84,11 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 * Paper Named "**Hybrid Architecture Based Intelligent Diagnosis Assistant for GP**"
 
 
-    * A screen shot of automatic diagnosis webapp
+    * A screen shot of automatic diagnosis webapp [link](https://github.com/ruibin-wang/ruibin-wang.github.io/blob/15bc166e69f5035e45bb75b98d333f93dee03e87/screenshot.png)
 
-    ![screenshot]() 
+    * Demonstration video [link](https://drive.google.com/file/d/1Ei4406agY8Cnbr01Q1nUEpA0PupWsT1c/view)
 
-    * demonstration video
-
-
+        
 
 
 
