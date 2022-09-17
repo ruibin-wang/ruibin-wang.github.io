@@ -42,12 +42,30 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 
     * **Knowledge notes**
 
-        * RNN for text generation [link]()
+        * RNN for text generation [link](https://github.com/ruibin-wang/ruibin-wang.github.io/blob/main/Learning%20notes/RNN%20for%20text%20generation.pdf)
+
+        * Attention for Seq2Seq model [Link](https://github.com/ruibin-wang/ruibin-wang.github.io/blob/781b5b103afc72255ed856afcf76e2daf24d2259/Learning%20notes/Attention%20for%20Seq2Seq%20model.pdf)
+
+        * Attention [Link](https://github.com/ruibin-wang/ruibin-wang.github.io/blob/781b5b103afc72255ed856afcf76e2daf24d2259/Learning%20notes/Attention.pdf)
+
+        * Making RNNs more effective [Link](https://github.com/ruibin-wang/ruibin-wang.github.io/blob/781b5b103afc72255ed856afcf76e2daf24d2259/Learning%20notes/Making%20RNNs%20more%20effective.pdf)
+
+        * NLP 基础算法梳理One-hot Word2vec Elmo Bert GPT [Link](https://github.com/ruibin-wang/ruibin-wang.github.io/blob/781b5b103afc72255ed856afcf76e2daf24d2259/Learning%20notes/NLP%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A2%B3%E7%90%86One-hot%20%20Word2vec%20%20Elmo%20%20Bert%20%20GPT.pdf)
+
+        * Self-Attention for Seq2Seq model [Link](https://github.com/ruibin-wang/ruibin-wang.github.io/blob/781b5b103afc72255ed856afcf76e2daf24d2259/Learning%20notes/Self-Attention%20for%20Seq2Seq%20model.pdf)
+
+        * Seq2Seq [Link](https://github.com/ruibin-wang/ruibin-wang.github.io/blob/781b5b103afc72255ed856afcf76e2daf24d2259/Learning%20notes/Seq2Seq.pdf)
+
+        * Softmax and Sigmoid [Link](https://github.com/ruibin-wang/ruibin-wang.github.io/blob/781b5b103afc72255ed856afcf76e2daf24d2259/Learning%20notes/Softmax%20and%20Sigmoid.pdf)
+
+        * Transfer Learning [Link](https://github.com/ruibin-wang/ruibin-wang.github.io/blob/781b5b103afc72255ed856afcf76e2daf24d2259/Learning%20notes/Transfer%20Learning.pdf)
+
+        * What is Precision，Recall，F1score and accuracy [Link](https://github.com/ruibin-wang/ruibin-wang.github.io/blob/781b5b103afc72255ed856afcf76e2daf24d2259/Learning%20notes/%E4%BB%80%E4%B9%88%E6%98%AFPrecision%EF%BC%8CRecall%EF%BC%8CF1score%EF%BC%8C%E4%BB%A5%E5%8F%8Aaccuracy.pdf)
+
+        * Knowledge graph learning [Link](https://github.com/ruibin-wang/Learning-note/blob/6e61d6010e279ac9b94e37fa94ba72fd2d14e763/Knowledge%20graph%20learning.md)
 
 
 
-
-        
 
 * **Survey for UK Film and Virtual Production**
 
@@ -60,6 +78,19 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 * **Crawl AMBOSS Data from [[weblink](https://www.amboss.com/us/knowledge/index)]**
 
     * data named *AMBOSS_disease_data.json*: **Access needs permission!!** 
+
+
+
+* Paper Named "**Hybrid Architecture Based Intelligent Diagnosis Assistant for GP**"
+
+
+    * A screen shot of automatic diagnosis webapp
+
+    ![screenshot]() 
+
+    * demonstration video
+
+
 
 
 
