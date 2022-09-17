@@ -23,20 +23,43 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 ## Projects
 * **Intel-PA**
 
-    [Intel-PA](https://github.com/Intel-PA/IntelPA)
+    [Intelligence Personal Assistant (Intel-PA)](https://github.com/Intel-PA/IntelPA)
 
 
-* **A demo of the automatic headache diagnose**
+    * **A demo of the automatic headache diagnose**
 
-    We have designed a simple interactive diagnostic system to determine whether the user has a primary headache. This system simulates the user's real consultation process, and the diagnosis of primary headache can be completed through the audio conversation between the user and the system.
+        We have designed a simple interactive diagnostic system to determine whether the user has a primary headache. This system simulates the user's real consultation process, and the diagnosis of primary headache can be completed through the audio conversation between the user and the system.
 
-    The code of this project can be found here: [A demo of the Automatic headache diagnose](https://github.com/Intel-PA/diagnose_demo)
+        The code of this project can be found here: [A demo of the Automatic headache diagnose](https://github.com/Intel-PA/diagnose_demo)
    
-    The video of this demo can be found here: [The video for the demo](https://drive.google.com/file/d/19BPzHcRFPfZ3jOThq7UvGjTOkYL774g8/view)  
+        The video of this demo can be found here: [The video for the demo](https://drive.google.com/file/d/19BPzHcRFPfZ3jOThq7UvGjTOkYL774g8/view)  
    
-* **Papers**
+* **Knowledge and paper notes**
 
-    Categories of recently read papers：[References](https://github.com/ruibin-wang/github_references)
+    * **Paper List**
+
+        Categories of recently read papers：[References](https://github.com/ruibin-wang/github_references)
+
+    * **Knowledge notes**
+
+        * RNN for text generation [link]()
+
+
+
+
+        
+
+* **Survey for UK Film and Virtual Production**
+
+    *  A Survey of the UK Film [Link](https://github.com/Intel-PA/Intel-PA.github.io/blob/jekyll-site/static/ruibin/progress/A%20Survey%20of%20the%20UK%20Film.md)
+
+    * Remote Virtual Production Survey [Link](https://github.com/Intel-PA/Intel-PA.github.io/blob/jekyll-site/static/ruibin/progress/Remote%20Virtual%20Production%20Survey.md)
+
+
+
+* **Crawl AMBOSS Data from [[weblink](https://www.amboss.com/us/knowledge/index)]**
+
+    * data named *AMBOSS_disease_data.json*: **Access needs permission!!** 
 
 
 
