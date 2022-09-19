@@ -104,7 +104,7 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 
 
 
-<video src= './Automatic diagnosis demonstration.mp4' width=50%></video>
+<video src= './Automatic_diagnosis_demonstration.mp4' width=50%></video>
         
 * **3D modeling**
 
@@ -115,17 +115,6 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 
 
 
-<iframe 
-    src = 'http://player.youku.com/embed/XMzMxMjE0MjY4NA=='
-    scrolling= 'no' 
-    frameborder='no' 
-    framespacing=0 
-    allowfullscreen='true' 
-    height=600
-    width=800> 
-</iframe>
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1488737309&auto=1&height=66"></iframe>
 
 
 
