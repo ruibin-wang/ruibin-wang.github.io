@@ -84,15 +84,39 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 * Paper Named "**Hybrid Architecture Based Intelligent Diagnosis Assistant for GP**"
 
 
-    * A screen shot of automatic diagnosis webapp [link](https://github.com/ruibin-wang/ruibin-wang.github.io/blob/15bc166e69f5035e45bb75b98d333f93dee03e87/automatic_diagnosis_screen_shot.png)
+    * A screen shot of automatic diagnosis webapp 
+
+    <center class='half'>
+    <img src=automatic_diagnosis_screen_shot.png width = 50%>
+    </center>
+
+    <p align=center> <font color=DarkOliveGreen> Figure6 </font> </p>
 
     * Demonstration video [link](https://drive.google.com/file/d/1Ei4406agY8Cnbr01Q1nUEpA0PupWsT1c/view)
 
+
+<!-- <video width="320" controls loop>
+  <source src="Automatic diagnosis demonstration.mp4" type="video/mp4">
+  <source src="myVideo.webm" type="video/webm">
+  <source src="myVideo.ogv" type="video/ogg" />
+  <p>Your browser doesn't support HTML5 video. Here is
+     a <a href="myVideo.mp4">link to the video</a> instead.</p>
+</video> -->
+
+
+
+<video src= 'https://drive.google.com/file/d/1Ei4406agY8Cnbr01Q1nUEpA0PupWsT1c/view?usp=sharing' width=50%></video>
         
 * **3D modeling**
 
 
-    * image.png
+    <center class='half'>
+    <img src=3D_modeling.png width = 50%>
+    </center>
+
+    <p align=center> <font color=DarkOliveGreen> Figure6 </font> </p>
+
+
 
 
 
