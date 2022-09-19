@@ -116,12 +116,12 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 
 
 <iframe 
-    src="Automatic diagnosis demonstration.mp4", 
-    scrolling="no" ,
-    frameborder="no", 
-    framespacing="0" ,
-    allowfullscreen="true", 
-    height=600,
+    src = 'http://player.youku.com/embed/XMzMxMjE0MjY4NA=='
+    scrolling= 'no' 
+    frameborder='no' 
+    framespacing=0 
+    allowfullscreen='true' 
+    height=600
     width=800> 
 </iframe>
 
