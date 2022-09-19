@@ -90,7 +90,6 @@ My research interests focus on: Natural language processing, Deep learning, Chat
     <img src=automatic_diagnosis_screen_shot.png width = 50%>
     </center>
 
-    <p align=center> <font color=DarkOliveGreen> Figure6 </font> </p>
 
     * Demonstration video [link](https://drive.google.com/file/d/1Ei4406agY8Cnbr01Q1nUEpA0PupWsT1c/view)
 
