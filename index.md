@@ -116,14 +116,13 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 
 
 <iframe 
-src="Automatic diagnosis demonstration.mp4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
+    src="Automatic diagnosis demonstration.mp4", 
+    scrolling="no" ,
+    frameborder="no", 
+    framespacing="0" ,
+    allowfullscreen="true", 
+    height=600,
+    width=800> 
 </iframe>
 
 
