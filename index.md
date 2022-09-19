@@ -114,9 +114,18 @@ My research interests focus on: Natural language processing, Deep learning, Chat
     <img src=3D_modeling.png width = 50%>
     </center>
 
-    <p align=center> <font color=DarkOliveGreen> Figure6 </font> </p>
 
 
+<iframe 
+src="Automatic diagnosis demonstration.mp4" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
 
 
 
