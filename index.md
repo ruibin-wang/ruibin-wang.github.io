@@ -104,7 +104,7 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 
 
 
-<video src= './Automatic_diagnosis_demonstration.mp4' width=50%></video>
+<video src= 'Automatic_diagnosis_demonstration.mp4' width=50%></video>
         
 * **3D modeling**
 
