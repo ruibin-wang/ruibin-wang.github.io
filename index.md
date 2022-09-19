@@ -6,11 +6,15 @@ Linkedin: https://www.linkedin.com/in/ruibin-wang-b95569198/
 
 Email: rwang1@bournemouth.ac.uk
 
+&nbsp;
+
 ## Introduction
 
 Researcher, PhD Student at National Centre for Computer Animation (NCCA), Bournemouth University.
 
 My research interests focus on: Natural language processing, Deep learning, Chatbot, Dialogue system, Deep learning algorithms, Knowledge Graph
+
+&nbsp;
 
 ## Education
 2012.9-2016.6  Bachelor's degree,  Applied Mathematics,  Southwest Jiaotong University
@@ -18,6 +22,8 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 2016.9-2019.6  Master's degree,  Vehicle Operation Engineering,  Southwest Jiaotong University
 
 2019.10-       PhD, Natural Language Processing, Bournemouth University
+
+&nbsp;
 
 
 ## Projects
@@ -39,6 +45,8 @@ My research interests focus on: Natural language processing, Deep learning, Chat
     * **Paper List**
 
         Categories of recently read papers：[References](https://github.com/ruibin-wang/github_references)
+
+        &nbsp;
 
     * **Knowledge notes**
 
@@ -64,6 +72,8 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 
         * Knowledge graph learning [Link](https://github.com/ruibin-wang/Learning-note/blob/6e61d6010e279ac9b94e37fa94ba72fd2d14e763/Knowledge%20graph%20learning.md)
 
+        &nbsp;
+
 
 
 
@@ -73,49 +83,42 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 
     * Remote Virtual Production Survey [Link](https://github.com/Intel-PA/Intel-PA.github.io/blob/jekyll-site/static/ruibin/progress/Remote%20Virtual%20Production%20Survey.md)
 
-
+    &nbsp;
 
 * **Crawl AMBOSS Data from [[weblink](https://www.amboss.com/us/knowledge/index)]**
 
     * data named *AMBOSS_disease_data.json*: **Access needs permission!!** 
 
+    &nbsp;
 
 
-* Paper Named "**Hybrid Architecture Based Intelligent Diagnosis Assistant for GP**"
+
+* **Paper Named "*Hybrid Architecture Based Intelligent Diagnosis Assistant for GP***"
 
 
     * A screen shot of automatic diagnosis webapp 
 
     <center class='half'>
-    <img src=automatic_diagnosis_screen_shot.png width = 50%>
+    <img src=automatic_diagnosis_screen_shot.png width = 70%>
     </center>
 
 
     * Demonstration video link can be found below:
 
-        'https://drive.google.com/file/d/1Ei4406agY8Cnbr01Q1nUEpA0PupWsT1c/view'
+        https://drive.google.com/file/d/1Ei4406agY8Cnbr01Q1nUEpA0PupWsT1c/view
+    
+
+    &nbsp;
 
 
-<!-- <video width="320" controls loop>
-  <source src="Automatic diagnosis demonstration.mp4" type="video/mp4">
-  <source src="myVideo.webm" type="video/webm">
-  <source src="myVideo.ogv" type="video/ogg" />
-  <p>Your browser doesn't support HTML5 video. Here is
-     a <a href="myVideo.mp4">link to the video</a> instead.</p>
-</video> -->
-
-
-
-<video src= 'Automatic_diagnosis_demonstration.mp4' width=50%></video>
         
 * **3D modeling**
 
+    modelling in the Maya software for the Veins, arteries, and nerves of the human body.
 
     <center class='half'>
-    <img src=3D_modeling.png width = 50%>
+    <img src=3D_modeling.png width = 70%>
     </center>
-
-
 
 
 
