@@ -122,6 +122,11 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 
 
 
+* **text2KG**
+
+    The details can be found at the link:  https://github.com/ruibin-wang/text2KG
+
+
 
 
 ## Publications
