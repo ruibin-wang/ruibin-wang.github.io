@@ -99,7 +99,7 @@ My research interests focus on: Natural language processing, Deep learning, Chat
     * A screen shot of automatic diagnosis webapp 
 
     <center class='half'>
-    <img src=automatic_diagnosis_screen_shot.png width = 70%>
+    <img src=./pics/automatic_diagnosis_screen_shot.png width = 70%>
     </center>
 
 
@@ -117,7 +117,7 @@ My research interests focus on: Natural language processing, Deep learning, Chat
     modelling in the Maya software for the Veins, arteries, and nerves of the human body.
 
     <center class='half'>
-    <img src=3D_modeling.png width = 70%>
+    <img src=./pics/3D_modeling.png width = 70%>
     </center>
 
 
@@ -125,7 +125,6 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 * **text2KG**
 
     The details can be found at the link:  https://github.com/ruibin-wang/text2KG
-
 
 
 
