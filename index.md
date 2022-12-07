@@ -126,6 +126,18 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 
     The details can be found at the link:  https://github.com/ruibin-wang/text2KG
 
+    Three examples:
+    * text = "Jack and Jill visited India, Japan and South Korea."
+    * text = "Jack visited India, Japan and South Korea, but Jill only visited India and China"
+    * text = "Jack visited India, Japan and South Korea, but Jill did not visit Japan, he visited India and China"
+
+
+    <p align="center">
+    <img alt="Light" src="./pics/KG_1.png" width="28%">
+    <img alt="Dark" src="./pics/KG_2.png" width="33%">
+    <img alt="Dark" src="./pics/KG_3.png" width="35%">
+    </p>
+
 
 
 ## Publications
