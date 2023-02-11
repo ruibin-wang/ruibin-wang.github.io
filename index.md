@@ -14,6 +14,14 @@ Researcher, PhD Student at National Centre for Computer Animation (NCCA), Bourne
 
 My research interests focus on: Natural language processing, Deep learning, Chatbot, Dialogue system, Deep learning algorithms, Knowledge Graph
 
+
+I Collaborated with academic superiors and peers to design the pipeline of the “Intelligent Patient Assistant System” project, and then implement the project's details as a leader. My PhD mainly focuses on the Natural language processing aspect of this project.
+
+My PhD thesis is titled "Knowledge-based dialogue system for automatic diagnosis" and it primarily addresses the following two issues:
+
+* Improve the pre-trained model's performance in the area of medical diagnosis. (Completed)
+* Design and implement an automatic diagnosis system based on knowledge graphs. (Doing)
+
 &nbsp;
 
 ## Education
@@ -27,19 +35,67 @@ My research interests focus on: Natural language processing, Deep learning, Chat
 
 
 ## Projects
-* **Intel-PA**
 
-    [Intelligence Personal Assistant (Intel-PA)](https://github.com/Intel-PA/IntelPA)
+1. **Intel-PA**
+
+    Intelligent Patient Assistant System，UK Higher Education Innovation Fund. I am the Leader of the project. My contribution is shown as follow:
 
 
-    * **A demo of the automatic headache diagnose**
+    * Utilized tools like Scrapy, Crawley, and Beautiful-soup to scrape original data from the Web, and then processed them to the training dataset.
 
-        We have designed a simple interactive diagnostic system to determine whether the user has a primary headache. This system simulates the user's real consultation process, and the diagnosis of primary headache can be completed through the audio conversation between the user and the system.
+    * Used the OCR algorithm to extract the critical text information from patient’s medical records in the form of images, organized and added them to the training dataset.
 
-        The code of this project can be found here: [A demo of the Automatic headache diagnose](https://github.com/Intel-PA/diagnose_demo)
-   
-        The video of this demo can be found here: [The video for the demo](https://drive.google.com/file/d/19BPzHcRFPfZ3jOThq7UvGjTOkYL774g8/view)  
-   
+    * Built a dialogue system for patient diagnosis. Made a demonstration demo of patient consultation, which involves speech recognition, natural language understanding, disease diagnosis, natural language generation and text-to-speech. The technologies include: the traditional hidden Markov model, connection time series classification (CTC) model, end-to-end RNN, bidirectional attention-based LSTM, transformer-based encoder-decoder and reinforcement learning, etc.
+
+    *  A breast cancer diagnostic tool was developed using methods of natural language understanding and decision trees.
+
+    *  A hybrid neural network framework was proposed to assist GP to make an accurate diagnosis, thereby reducing the pressure on the National Health System (NHS), and a paper entitled "Hybrid Architecture Based Intelligent Diagnosis Assistant for GP" was published in the CASA2022 workshop conference. In this article, the classification accuracy of the hybrid network model and general NLP models (CNN, RNN, Bert, Albert, XLnet, etc.) is compared, and a corresponding Webapp was developed. (First issue of my PhD paper was completed)
+
+        * **A demo of the automatic headache diagnose**
+
+            We have designed a simple interactive diagnostic system to determine whether the user has a primary headache. This system simulates the user's real consultation process, and the diagnosis of primary headache can be completed through the audio conversation between the user and the system.
+
+            The code of this project can be found here: [A demo of the Automatic headache diagnose](https://github.com/Intel-PA/diagnose_demo)
+    
+            The video of this demo can be found here: [The video for the demo](https://drive.google.com/file/d/19BPzHcRFPfZ3jOThq7UvGjTOkYL774g8/view)  
+
+    *  Built a text2KG platform which can extract a sentence's entity-relationship pairings and present them as a picture of knowledge graph. The tools utilized for this are Neo4j and OpenIE.
+
+    *  Recently, focusing on the models of GNN+Transformer and KG+Transformer to improve its word embedding ability and diagnosis accuracy.
+
+    * Also focusing on prompt design of the Chatgpt.
+
+
+
+
+2. **The iGame Project**
+This project is funded by EU H2020. My contribution can be found as follow:
+
+    * Used Openpose and CNN to extract the skeleton of patient in a video.
+
+    * Calculated the motion trajectory and motion parameters of the patient in the video.
+
+    * Converted the motion parameter to the "Mell" metric to assess the patient's health.
+
+3. **Teaching & Activities**
+
+    Some activities that I have joined
+
+    * Completed the programme of “Introduction to Education Practice for Postgraduate Research Students” and earned the certificate.
+
+    * Assisted academic supervisor in teaching the Maya+Python course for the undergraduate students.
+    
+    * Speech of AI and Natural language processing for postgraduate students.
+
+    * Attended the Eastern Europe Machine Learning 2022 summer school and earned the ECTS credits certificate.
+
+4. **Other projects**
+
+    In my master's stage, as the leader for a Chinese National Natural Science Foundation project, my work primarily focused on 3D parametric modelling, and I was also involved in a horizontal project to design a railway disaster rescue system.
+
+
+
+
 * **Knowledge and paper notes**
 
     * **Paper List**
