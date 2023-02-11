@@ -77,6 +77,10 @@ This project is funded by EU H2020. My contribution can be found as follow:
 
     * Converted the motion parameter to the "Mell" metric to assess the patient's health.
 
+    <p align= "center">
+    <img src = "./pics/iGame.png" width=80%>
+    </p>
+
 3. **Teaching & Activities**
 
     Some activities that I have joined
@@ -154,9 +158,9 @@ This project is funded by EU H2020. My contribution can be found as follow:
 
     * A screen shot of automatic diagnosis webapp 
 
-    <center class='half'>
-    <img src=./pics/automatic_diagnosis_screen_shot.png width = 70%>
-    </center>
+    <p align="center">
+    <img src=./pics/automatic_diagnosis_screen_shot.png width = 70% >
+    </p>
 
 
     * Demonstration video link can be found below:
@@ -172,9 +176,9 @@ This project is funded by EU H2020. My contribution can be found as follow:
 
     modelling in the Maya software for the Veins, arteries, and nerves of the human body.
 
-    <center class='half'>
-    <img src=./pics/3D_modeling.png width = 70%>
-    </center>
+    <p align="center">
+    <img src=./pics/3D_modeling.png width = 70% >
+    </p>
 
 
 
